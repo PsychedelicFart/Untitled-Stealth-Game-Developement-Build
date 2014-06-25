@@ -1,3 +1,3 @@
 Untitled-Stealth-Game-Developement-Build
 ========================================
-a
+This repository will be used for source controlling my upcoming stealth game.
