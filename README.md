@@ -67,8 +67,17 @@ Versions:
 				-Requires new navigation system
 			*
 		*1.5.x:
-			*New tiles
-				*
+			*New tiles: Functioning in editor and game; needs art assets
+				*Character
+					*AI
+					*Player start
+					*Player end
+				*Utility
+					*Ammo
+					*Health pack
+				*Other
+					*Vents
+					*Doors/keys: Corresponding IDs
 			*
 	*2.x.x: Alpha: Maps
 	*3.x.x: Beta: Graphics
