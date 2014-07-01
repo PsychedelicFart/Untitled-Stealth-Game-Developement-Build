@@ -78,7 +78,14 @@ Versions:
 				*Other
 					*Vents
 					*Doors/keys: Corresponding IDs
-			*
+			*Cover system
+				*"Cover block"
+					*4 sides: toggleable by raycast, manual toggle, or checking adjacent tiles in the maparray
+					*Click to attach, tab to detach
+					*A/D to strafe
+					*Can swap to nearest cover to left/right
+					*Can swap to cover across hall
+					*Can round corners
 	*2.x.x: Alpha: Maps
 	*3.x.x: Beta: Graphics
 	*4+.x.x: Release:
