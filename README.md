@@ -64,8 +64,7 @@ Versions:
 				+Less time consuming
 				+More maps
 				+Player friendly
-				-Requires new navigation system
-			*
+				-Requires new navigation system: Dijkstra's Algorithm
 		*1.5.x:
 			*New tiles: Functioning in editor and game; needs art assets
 				*Character
