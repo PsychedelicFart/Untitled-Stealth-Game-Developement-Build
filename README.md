@@ -66,6 +66,9 @@ Versions:
 				+Player friendly
 				-Requires new navigation system: Dijkstra's Algorithm
 		*1.5.x:
+			*Player
+				*Ammo counter
+				*Random weapon damages based on weapon damage
 			*New tiles: Functioning in editor and game; needs art assets
 				*Character
 					*AI
