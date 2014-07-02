@@ -88,6 +88,10 @@ Versions:
 					*Can swap to nearest cover to left/right
 					*Can swap to cover across hall
 					*Can round corners
+			*Project refactoring 
+				*Making code efficient
+				*Organize project folder
+				*Remake/organize gameobjects
 	*2.x.x: Alpha: Maps
 	*3.x.x: Beta: Graphics
 	*4+.x.x: Release:
