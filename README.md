@@ -92,6 +92,20 @@ Versions:
 				*Making code efficient
 				*Organize project folder
 				*Remake/organize gameobjects
+		1.6.x:
+			*Weapons
+				*Armor
+					*Ammo cap
+					*HP bonus
+					*Armor bonus
+					*Speed
+				*Accesories
+					*Extended clips
+					*Silencers
+					*Sights/Optics
+					*Laser sights
+					*Grips
+					*Fire rate selectors
 	*2.x.x: Alpha: Maps
 	*3.x.x: Beta: Graphics
 	*4+.x.x: Release:
